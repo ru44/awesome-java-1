@@ -367,6 +367,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Ceylon](http://ceylon-lang.org/) - Statically typed object-oriented language developed by RedHat.
 * [Kotlin](http://kotlinlang.org/) - JetBrain's statically typed programming language for the JVM, Android and the browser.
 * [Eclipse Golo](http://golo-lang.org/) - A simple dynamic language that makes extensive usage of `invokedynamic`, currently an incubating Eclipse Technology project.
+* [Frege](https://github.com/Frege/frege) - Frege is a Haskell for the JVM. It brings purely functional programing to the Java platform.
 
 ## Logging
 
